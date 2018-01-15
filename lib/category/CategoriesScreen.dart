@@ -16,7 +16,7 @@ class CategoriesState extends State<CategoriesScreen> {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-      body: new Text('CategoriesScreen'),
+      body: new Text('CategoriesScreen Test'),
     );
   }
 }
