@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+  <library name="Flutter Plugins">
     <CLASSES>
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.14" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.2.5" />

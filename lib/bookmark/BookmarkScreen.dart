@@ -1,18 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:news_online/category/CategoriesScreen.dart';
 
 class BookmarkScreen extends StatefulWidget {
-  BookmarkScreen({Key key}) : super(key: key);
-
   @override
-  BookmarkState createState() => new BookmarkState();
+  _BookmarkScreenState createState() => new _BookmarkScreenState();
 }
 
-class BookmarkState extends State<BookmarkScreen> {
-  void intState() {
-    super.initState();
-  }
-
+class _BookmarkScreenState extends State<BookmarkScreen> {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
