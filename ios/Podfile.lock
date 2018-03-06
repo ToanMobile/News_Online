@@ -87,7 +87,7 @@ DEPENDENCIES:
   - firebase_auth (from `/Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.2.5/ios`)
   - firebase_database (from `/Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.14/ios`)
   - firebase_storage (from `/Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.8/ios`)
-  - Flutter (from `/Users/toanit/flutter/bin/cache/artifacts/engine/ios`)
+  - Flutter (from `/Users/toandev/flutter/bin/cache/artifacts/engine/ios`)
   - flutter_webview_plugin (from `/Users/toanit/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.0.9+1/ios`)
   - google_sign_in (from `/Users/toanit/.pub-cache/hosted/pub.dartlang.org/google_sign_in-2.0.1/ios`)
   - share (from `/Users/toanit/.pub-cache/hosted/pub.dartlang.org/share-0.2.2/ios`)
@@ -102,7 +102,7 @@ EXTERNAL SOURCES:
   firebase_storage:
     :path: /Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.8/ios
   Flutter:
-    :path: /Users/toanit/flutter/bin/cache/artifacts/engine/ios
+    :path: /Users/toandev/flutter/bin/cache/artifacts/engine/ios
   flutter_webview_plugin:
     :path: /Users/toanit/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.0.9+1/ios
   google_sign_in:

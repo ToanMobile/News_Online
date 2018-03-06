@@ -5,56 +5,56 @@
         <entry key="async">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/async-1.13.3/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/async-1.13.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="charcode">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.1/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="collection">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/collection-1.14.3/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/collection-1.14.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="cupertino_icons">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.1/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_analytics">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-0.0.5/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-0.0.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_auth">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.2.5/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.2.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_database">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.14/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.14/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_storage">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.8/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.8/lib" />
             </list>
           </value>
         </entry>
@@ -68,63 +68,63 @@
         <entry key="flutter_webview_plugin">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.0.9+1/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.0.9+1/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_sign_in">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_sign_in-2.0.1/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/google_sign_in-2.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="http">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http-0.11.3+14/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/http-0.11.3+14/lib" />
             </list>
           </value>
         </entry>
         <entry key="http_parser">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.1/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="intl">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/intl-0.15.2/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/intl-0.15.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="meta">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/meta-1.1.1/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/meta-1.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="path">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path-1.5.1/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/path-1.5.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="rxdart">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/rxdart-0.15.0/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/rxdart-0.15.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="share">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/share-0.2.2/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/share-0.2.2/lib" />
             </list>
           </value>
         </entry>
@@ -138,73 +138,73 @@
         <entry key="source_span">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.4.0/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/source_span-1.4.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="stack_trace">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.1/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="string_scanner">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.2/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="timeago">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/timeago-1.2.0/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/timeago-1.2.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="typed_data">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.4/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="vector_math">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.5/lib" />
+              <option value="/Users/toanit/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.5/lib" />
             </list>
           </value>
         </entry>
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/async-1.13.3/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/collection-1.14.3/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-0.0.5/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.2.5/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.14/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.8/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.0.9+1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_sign_in-2.0.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http-0.11.3+14/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/intl-0.15.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/meta-1.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path-1.5.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/rxdart-0.15.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/share-0.2.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.4.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/timeago-1.2.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.5/lib" />
       <root url="file://$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$USER_HOME$/flutter/packages/flutter/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/async-1.13.3/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.1/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/collection-1.14.3/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.1/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-0.0.5/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.2.5/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.14/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.8/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.0.9+1/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/google_sign_in-2.0.1/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/http-0.11.3+14/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.1/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/intl-0.15.2/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/meta-1.1.1/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/path-1.5.1/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/rxdart-0.15.0/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/share-0.2.2/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/source_span-1.4.0/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.1/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.2/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/timeago-1.2.0/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.4/lib" />
+      <root url="file:///Users/toanit/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.5/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
